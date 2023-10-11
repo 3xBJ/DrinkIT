@@ -13,7 +13,7 @@
 ## How to run this repository
 RUNME.ps1 will generate the db and api containers.
 
-Access the swager UI at: http://localhost:5148/swagger/index.html
+Access the swagger UI at: http://localhost:5148/swagger/index.html
 
 ## Simple diagram
 
